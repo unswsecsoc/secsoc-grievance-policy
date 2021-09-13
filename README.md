@@ -47,11 +47,11 @@ The following procedural steps are a guideline of the actions which can be taken
 
 ### **4.1. Informal Grievance Resolution**
 
-### ***Self-Resolution***
+#### ***Self-Resolution***
 
 Where the individual complainant feels comfortable doing so, they should attempt to seek a resolution to the grievance themselves with the person/persons involved. The focus on self-resolution is to avoid escalation of grievances in the future, to produce a positive result for the maximum number of parties and to encourage a culture where honest and constructive dialogue is valued.SecSoc does not condone behaviour which is contrary to these objectives, and therefore will not tolerate individuals behaving in a confrontational, aggressive or abusive way in the pursuit of addressing a Club grievance.
 
-### ***Informal grievance mechanisms may also include:***
+#### ***Informal grievance mechanisms may also include:***
 
 - SecSoc Executives attempt to resolve the grievance through informal discussions with the complainant and the respondent;
 - Internal mediation between parties; and
@@ -75,7 +75,7 @@ When formally reporting the grievance to the Grievance Officer, the complainant 
 
 After reporting your grievance to the Grievance Officer, the Grievance Officer will follow the procedure below or one which is deemed relevant considering the circumstances.
 
-***Initial Steps***
+#### ***Initial Steps***
 
 The Grievance Officer will follow up with the complainant within five (5) working days of the complaint being made, or as soon as practicable given the circumstances. Where practical this should be in person. The purpose of this follow-up includes:
 
@@ -83,7 +83,7 @@ The Grievance Officer will follow up with the complainant within five (5) workin
 - Advising the complainant of this grievance policy and procedure (including requiring a grievance to be set out in writing if it has not already been submitted); and
 - The Grievance Officer ascertaining the necessary steps to be taken in order to deal with and resolve the grievance, including whether or not the Grievance Officer is the appropriate person to handle the grievance (taking into consideration their ability to remain impartial during any grievance procedure and their ability to successfully handle the grievance process). If the Grievance Officer feels that they are unable to handle the procedure, then they must refer the grievance on to another person on the SecSoc Executive.
 
-***Investigation***
+#### ***Investigation***
 
 Where the Grievance Officer determines that the grievance requires further investigation, the following may occur:
 
@@ -98,7 +98,7 @@ If the Grievance Officer reasonably believes that it would benefit investigation
 
 Any investigation resulting in actions on individual/s must include giving these individual/s adequate notice, information and opportunity to respond before outcomes are decided.
 
-***Procedural fairness***
+#### ***Procedural fairness***
 
 Any person involved in an investigation will be afforded the following:
 
@@ -111,11 +111,11 @@ Any person involved in an investigation will be afforded the following:
 - An opportunity to have a support person present in any meeting where a request is made to the Grievance Officer; and
 - A right of appeal.
 
-***Record keeping***
+#### ***Record keeping***
 
 At all times, details of all conversations and dates are to be recorded (in writing), and these may be shared with Arc, UNSW or law enforcement as required.  These records must be kept secure and confidential
 
-***Victimisation***
+#### ***Victimisation***
 
 Where any actions taken resulting from the complaint, or the act of complaint itself breaches the UNSW Code, SecSoc may report individuals to UNSW. This particularly includes individuals who are found to have victimised or retaliated against a complainant who has raised a grievance under this policy, or any individual who is found to have made false, vexatious or unsubstantiated complaints against another person under this policy.
 
@@ -129,13 +129,13 @@ Any breaches of confidentiality will be taken seriously and may result in a comp
 
 ## **6. Appeal / Review of decisions**
 
-***Internal Appeals procedure***
+#### ***Internal Appeals procedure***
 
 If you are unhappy about the way the grievance has been handled, you can refer the matter to the <Club President> for review (or other SecSoc Executive member if the <Club President> is involved in the grievance or grievance handling). The appeal needs to be submitted within five (5) working days of receiving notification of the outcome of the formal grievance and must specify the reasons for the appeal (e.g. why the original decision was incorrect based on a lack of procedural fairness).
 
 Once notified, they will select 2 other Club Executives (taking into consideration any conflicts of interest) and together conduct a review of the procedure followed, the outcome issued and make SecSoc’s final determination on the issue. Once this determination is made, the person who has made the appeal will be notified of the outcome.
 
-***Grievances or Appeals to Arc or UNSW***
+#### ***Grievances or Appeals to Arc or UNSW***
 
 In certain circumstances, grievances with Arc-affiliated Clubs or appeals/reviews of decisions can be made to Arc. Wherever possible, the formal and informal procedures outlined in this policy should be followed before raising a grievance or appeal with Arc. For further information on Arc’s Clubs Grievance Policies & Procedures, contact Arc Clubs (clubs@arc.unsw.edu.au // 9385 9840).
 
